@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="duality">
+    <output-path>$PROJECT_DIR$/dist/artifacts/Duality.jar</output-path>
+    <root id="archive" name="duality.jar">
+      <element id="module-output" name="Duality" />
+    </root>
+  </artifact>
+</component>
